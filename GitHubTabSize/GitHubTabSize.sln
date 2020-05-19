@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "GitHubTabSize", "GitHubTabSize.njsproj", "{BD1622E5-C94E-4434-8B4D-89529251ED5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD1622E5-C94E-4434-8B4D-89529251ED5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD1622E5-C94E-4434-8B4D-89529251ED5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD1622E5-C94E-4434-8B4D-89529251ED5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD1622E5-C94E-4434-8B4D-89529251ED5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13E5876C-CAC9-43D1-82AC-5CB99451BA5E}
+	EndGlobalSection
+EndGlobal

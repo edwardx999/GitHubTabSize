@@ -1,0 +1,21 @@
+{
+	"name": "git-hub-tab-size",
+	"version": "0.0.0",
+	"description": "GitHubTabSize",
+	"author": {
+		"name": "Edward Xie"
+	},
+	"scripts": {
+		"build": "make build",
+		"clean": "make clean"
+	},
+	"devDependencies": {
+		"@types/chrome": "0.0.35",
+		"@types/node": "^8.0.14",
+		"typescript": "^3.2.2",
+		"webpack-cli": "^3.3.11"
+	},
+	"dependencies": {
+		"webpack": "^4.43.0"
+	}
+}
