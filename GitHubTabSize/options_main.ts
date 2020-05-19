@@ -63,6 +63,7 @@ getAllOptions((items) => {
 			const value = String(num);
 			notifyTabSizeChange(value);
 			slider.value = value;
+			inputText.value = value;
 		}
 		else {
 			inputText.value = previousValue;
