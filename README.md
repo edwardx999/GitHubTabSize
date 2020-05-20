@@ -1,11 +1,16 @@
 # GitHubTabSize
 Automatically set the tab size GitHub displays.
 
+## Dependencies
+npm
+
+Run `npm install` in the GitHubTabSize folder.
+
 ## Building
-Run make in the GitHubTabSize folder.
+Run `make` in the GitHubTabSize folder.
 
 ## Installing
-Load the extension folder in GitHubTabSize as an unpacked extension into Chrome. <br />
+Load the extension folder in GitHubTabSize as an unpacked extension into Chrome.
 
 ### License
 Copyright(C) 2020 Edward Xie
