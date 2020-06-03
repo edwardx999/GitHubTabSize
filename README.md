@@ -3,6 +3,7 @@ Automatically set the tab size GitHub displays.
 
 ## Dependencies
 npm
+
 make
 
 Run `npm install` in the GitHubTabSize folder.
